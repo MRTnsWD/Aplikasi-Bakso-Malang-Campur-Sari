@@ -1,3 +1,3 @@
 # Aplikasi-Bakso-Malang-Campur-Sari
 
-must install JApplet
+must install JApplet (plug-in or extension)
